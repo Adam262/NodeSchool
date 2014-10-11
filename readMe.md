@@ -1,4 +1,4 @@
-These are my answers to the excellent Nodeschool.io tutorials. 
+These are my solutions to the excellent Nodeschool.io tutorials. 
 
 Get started on a problem set by installing the source command-line exercises at: http://nodeschool.io/;
 
